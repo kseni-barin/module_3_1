@@ -36,5 +36,5 @@ print(string_info('Armageddon'))
 print(is_contains('Urban', ['ban', 'BaNaN', 'urBAN'])) # Urban ~ urBAN
 print(is_contains('cycle', ['recycling', 'cyclic'])) # No matches
 print(string_info('single5'))
-print(is_contains('sun', ['SUnlight', '34', 'sun3', 78])) # No matche
+print(is_contains('sun', ['SUnlight', '34', 'sun3', 78]))
 print(calls)
